@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+starlette
+tensorflow
+numpy
+pillow
+ultralytics
+opencv-python
+python-dotenv
+requests
+sentinelhub
+apscheduler
